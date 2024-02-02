@@ -5,4 +5,4 @@
 # HUGE THANKS TO LUNAR CLIENT QT PROJECT BY Nilsen84
                                                                           
 # Inspired by lcqt2
-# Most code is contributed by the lcqt2 project
+# Big chunk of the code is contributed by lcqt2 along with the required permission
